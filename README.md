@@ -1,4 +1,4 @@
-# weather-web-app
+# Weather-App
 Simple web application to check the current weather state
 
 ## API KEY
